@@ -153,4 +153,20 @@ Selected Projects {data-icon=newspaper}
 position_data %>% print_section('projects')
 ```
 
+Volunteer Work {data-icon=handshake}
+-------------------------------------------------------------------------------------
+
+```{r}
+position_data %>% print_section('volunteer')
+```
+
+Certifications {data-icon= newspaper}
+---------------------------------------------------------------------------------------
+
+```{r}
+position_data %>% print_section('cerifications)
+
+
+
+
 
