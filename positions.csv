@@ -4,5 +4,9 @@ Graduate Research Assistant,Arizona State University,Tempe,AZ,2022,2023,"Analyze
 Data Analyst Intern,City of Tempe,Tempe,AZ,2021,2022,"Built Leaflet crash maps and automated reporting workflows in R.",positions,TRUE
 Teaching Assistant,School of Computing & AI,Tempe,AZ,2020,2021,"Assisted with R programming and data visualization courses; held office hours for 60+ students.",positions,TRUE
 Capstone Project: Crash Data Dashboard,Arizona State University,Tempe,AZ,2022,2022,"Led a 3-person team to design a Shiny dashboard analyzing Tempe traffic accidents.",positions,TRUE
+Volunteer Data Analyst,Community Health Org,Tempe,AZ,2021,2022,"Analyzed vaccination outreach data; improved data collection workflows.",volunteer,TRUE
+STEM Outreach Mentor,High School Data Science Program,Tempe,AZ,2019,2021,"Mentored high school students in basic R and Python coding.",volunteer,TRUE
+Certification: Tableau Desktop Specialist,Tableau,Online,2021,2021,"Certified in dashboard design and data storytelling.",certifications,TRUE
+Certification: SQL for Data Science,Coursera,Online,2020,2020,"Completed professional certification in database querying and relational design.",certifications,TRUE
 Blog Post,"Data Science Blog",Online,2023,2023,"Published article on reproducibility crisis in research and proposed workflow improvements.",writings,TRUE
 Article,"Medium",Online,2022,2022,"Wrote about using Leaflet in R to make interactive crash maps.",writings,TRUE
