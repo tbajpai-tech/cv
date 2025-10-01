@@ -150,7 +150,7 @@ Selected Projects {data-icon=newspaper}
 
 
 ```{r}
-position_data %>% print_section('writings')
+position_data %>% print_section('projects')
 ```
 
 
