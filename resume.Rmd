@@ -1,5 +1,5 @@
 ---
-title: Tanu Bajpai's Resume"
+title: "Tanu Bajpai's Resume"
 author: Tanu Bajpai
 date: "`r Sys.Date()`"
 output:
@@ -118,10 +118,8 @@ Tanu Bajpai {#title}
 --------------------------------------------------------------------------------
 
 ```{r}
-intro_text <- "Graduate student in Data Science with experience building interactive dashboards, analyzing large datasets, and applying machine learning models. Seeking opportunities to apply data science skills in real-world policy and business settings."
-
-Currently searching for a data science position that allows me to build tools using visualization and machine learning to help people explore and understand their data. 
-"
+intro_text <- "Graduate student in Data Science with experience building interactive dashboards, analyzing large datasets, and applying machine learning models. Seeking opportunities to apply data science skills in real-world policy and business settings.
+Currently searching for a data science position that allows me to build tools using visualization and machine learning to help people explore and understand their data." 
 
 
 cat(sanitize_links(intro_text))
@@ -129,7 +127,7 @@ cat(sanitize_links(intro_text))
 
 
 
-Academic Background {data-icon=graduation-cap data-concise=true}
+Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ```{r}
