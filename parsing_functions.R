@@ -50,7 +50,8 @@ print_section <- function(position_data, section_id){
   position_data %>% 
     filter(section == section_id) %>% 
     arrange(desc(end)) %>% 
-    mutate(id = 1:n()) %>% 
+    ungroup() %>%
+    mutate(id = row_number()) %>% 
     pivot_longer(
       starts_with('description'),
       names_to = 'description_num',
